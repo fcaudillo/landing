@@ -1,0 +1,6 @@
+
+Crear un proyecto usando next.js usando una arquitectura hexagonal simple
+pero bien estructurada , y utilizando vertical slice.
+
+Analiza el archivo @index.html, ahi adentro tienes secciones.
+a) Seccion header
